@@ -1,0 +1,7 @@
+# Database Tai Khoan Son Tinh Thuy Tinh
+# username|hashedPassword|salt|elo|won|lost|tributes
+thuytinh|y5zeTr4c9zmV7adRJav2w/4BmfIWl4RBV2LSlXhO6lw=|+Q2My6kQk74bsGlbAMkp3Q==|1580|21|8|42
+hove2|fSZx3mz73DMcf0lHn77R18eKypqVFDrDdG8ax19hj64=|rPhgbmzqh3wuby0PI8IkLA==|1200|0|0|0
+hove1|vDrx8CWCjfxJPJS+0G1+6yxfOxXuQspNNOszoL9Ce7s=|hEDU4SZcPfaFDyrytVrM1A==|1200|0|0|0
+admin|L8MYiJEym8cVc9GImfMvqBAlC6iB3QI4quH2ldWHgjo=|VpUWicahmzGxoCikhvxpHw==|1200|0|0|0
+sontinh|FzDd+tK1futdzCZ/y/GjNUTjLvYmSjGchV8I5YcoMNk=|l+mpHDAVRgiTBZQSUf/Z7w==|1650|24|5|48

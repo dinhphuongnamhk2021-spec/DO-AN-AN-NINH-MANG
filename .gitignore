@@ -1,0 +1,18 @@
+# Compiled class files
+bin/
+*.class
+
+# Log files
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
